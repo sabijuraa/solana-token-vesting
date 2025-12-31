@@ -1,0 +1,22 @@
+﻿# Dependencies
+node_modules/
+target/
+
+# Build outputs
+dist/
+.anchor/
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Solana
+test-ledger/
